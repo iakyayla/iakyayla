@@ -21,5 +21,6 @@
 <a href="https://instagram.com/ibrahimakyayla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahimakyayla" height="30" width="40" /></a>
 <a href="https://medium.com/@ibrahimakyayla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ibrahimakyayla" height="30" width="40" /></a>
 </p>
+<p align="center">New Jersey U.S.A.| Ankara Türkiye <p>
 <p align="center">ibrahim@okinar.com</p>
 
