@@ -3,6 +3,7 @@
 <h2 align="center">Some projects I worked on</h2>
 <p align="center">
   <a href="https://okinar.com"><img src="https://okinar.com/assets/customize/logo_w.svg" alt="okinar" width="120"></a>
+  <a href="https://gbyf.org.tr"><img src="https://gbyf.org.tr/assets/img/logo.png" alt="gbyf" width="120"></a>
 <img src="https://www.myk.gov.tr/assets/home/images/footer/myklogo_en.png" width="120">
   <img src="https://europass.gov.tr/templates/ja_university/images/europass-logo3.png" width="120">
 <img src="https://epati.ankara.bel.tr/images/abblogo.png" width="120">
